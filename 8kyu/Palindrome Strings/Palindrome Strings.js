@@ -12,7 +12,7 @@
 //                               version 1
 
 function isPalindrome(line) {
-    return (String(line) == String(line).split('').reverse().join('') )
+    return (String(line) == String(line).split('').reverse().join('') );
     
   }
 
